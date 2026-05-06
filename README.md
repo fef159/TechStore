@@ -15,7 +15,7 @@ Sistema web de gestión de inventario con autenticación JWT, MFA, RBAC y ABAC.
 ## 🚀 Instalación
 
 ### 1. Clonar el repositorio
-git clone https://github.com/TU_USUARIO/techstore.git
+git clone [https://github.com/TU_USUARIO/techstore.git](https://github.com/fef159/TechStore.git)
 cd techstore
 
 ### 2. Levantar Docker
